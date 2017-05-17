@@ -54,7 +54,6 @@ public class Suma extends JFrame implements ActionListener{
 		this.setVisible(true);  
       }
 
-	@Override
 	public void actionPerformed(ActionEvent arg0) {
 		if(arg0.getSource().equals(btnProcesar)){
 			try{
