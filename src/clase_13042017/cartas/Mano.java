@@ -1,9 +1,4 @@
-
-
-  // arodriguez@unerg.edu.ve
-
-
-package cartas;
+package clase_13042017.cartas;
 
 public class Mano {
 	Carta[] mano;

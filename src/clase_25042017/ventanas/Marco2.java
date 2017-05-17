@@ -1,4 +1,4 @@
-package ventanas;
+package clase_25042017.ventanas;
 
 public class Marco2 {
 

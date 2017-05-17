@@ -1,4 +1,4 @@
-package ventanas;
+package clase_25042017.ventanas;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;

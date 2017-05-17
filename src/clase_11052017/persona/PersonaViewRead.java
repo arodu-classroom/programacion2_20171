@@ -1,4 +1,4 @@
-package persona;
+package clase_11052017.persona;
 
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;

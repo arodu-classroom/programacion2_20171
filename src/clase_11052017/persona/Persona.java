@@ -1,4 +1,4 @@
-package persona;
+package clase_11052017.persona;
 
 public class Persona {
 	private String nombres = null;

@@ -1,4 +1,4 @@
-package cartas;
+package clase_13042017.cartas;
 
 import javax.swing.JOptionPane;
 
