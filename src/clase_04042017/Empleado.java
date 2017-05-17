@@ -1,3 +1,5 @@
+package clase_04042017;
+
 import java.util.Scanner;
 
 public class Empleado extends Persona {
